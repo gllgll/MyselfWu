@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyselfWu</string>
+    <string name="button">退出</string>
+    <string name="textview">个人简介</string>
+    <string name="buttonnext">下一页</string>
+    <string name="buttonbasic">基本信息</string>
+    <string name="buttonnotifi">通知栏信息</string>
+    <string name="buttonmany">了解更多</string>
+    <string name="imagehead">头像框</string>
+    <string name="copyright">这是WGH的Android期中考试，仅供于学习。</string>
+</resources>

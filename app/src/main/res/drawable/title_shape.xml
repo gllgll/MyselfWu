@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--    填充颜色-->
+    <solid android:color="@android:color/white"/>
+
+    <!--    内边距-->
+    <padding
+        android:top="17dp"
+        android:bottom="17dp"
+        android:left="35dp"
+        android:right="17dp"/>
+    <!--    渐变效果-->
+
+</shape>
